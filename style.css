@@ -3,3 +3,8 @@ h1{
     font-size: 35px;
     text-align: center;
 }
+div{
+    width: 400px;
+    border: 2px solid;
+    
+}
